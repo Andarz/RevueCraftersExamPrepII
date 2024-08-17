@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RevueCraftersExamPrepII")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fb3e4b08f8a925a8d381d9b945c891423a2115e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af84697b0082ffc101b65ab6329b9b4863603cf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("RevueCraftersExamPrepII")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RevueCraftersExamPrepII")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

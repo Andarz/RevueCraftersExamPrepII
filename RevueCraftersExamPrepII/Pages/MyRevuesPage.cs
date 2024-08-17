@@ -25,7 +25,7 @@ namespace RevueCraftersExamPrepII.Pages
         public IWebElement LastRevueEditButton => AllRevues.Last().FindElement(By.XPath("//a[@class='btn btn-sm btn-outline-secondary' and text()='Edit']"));
         public IWebElement LastRevueDeleteButton => AllRevues.Last().FindElement(By.XPath("//a[@class='btn btn-sm btn-outline-secondary' and text()='Delete']"));
 		public IWebElement lastRevueTitle => AllRevues.Last().FindElement(By.CssSelector(".text-muted"));
-        public IWebElement searchField => driver.FindElement(By.XPath("//input[@type='search']"));
-        public IWebElement searchButton => driver.FindElement(By.Id("search-button"));
+        
+        
 	}
 }

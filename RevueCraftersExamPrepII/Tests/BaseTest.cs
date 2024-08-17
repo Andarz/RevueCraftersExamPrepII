@@ -15,6 +15,7 @@ namespace RevueCraftersExamPrepII.Tests
 		public LoginPage loginPage;
 		public CreateRevuePage createRevuePage;
 		public MyRevuesPage myRevuesPage;
+		public SearchPage searchPage;
 
 		[OneTimeSetUp]
 		public void OneTimeSetUp()
@@ -32,6 +33,7 @@ namespace RevueCraftersExamPrepII.Tests
 			loginPage = new LoginPage(driver);
 			createRevuePage = new CreateRevuePage(driver);
 			myRevuesPage = new MyRevuesPage(driver);
+			searchPage = new SearchPage(driver);
 
 			loginPage.OpenPage();
 			loginPage.LogIn("testuser@abv.bg", "123456");

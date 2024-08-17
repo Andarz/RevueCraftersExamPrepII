@@ -1,4 +1,5 @@
-﻿using OpenQA.Selenium.Support.UI;
+﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Support.UI;
 
 namespace RevueCraftersExamPrepII.Tests
 {
@@ -39,15 +40,21 @@ namespace RevueCraftersExamPrepII.Tests
 		[Test, Order(3)]
 		public void Test_SearchForRevueTitle()
 		{
-			myRevuesPage.OpenPage();
+			searchPage.OpenPage();
 
-			actions.ScrollToElement(myRevuesPage.searchField).Perform();
+			//var searchField = driver.FindElement(By.Id("keyword"));
 
-			myRevuesPage.searchField.Clear();
+			//actions.MoveToElement(searchPage.searchInput).Perform();
 
-			myRevuesPage.searchField.SendKeys(myRevuesPage.lastRevueTitle.ToString());
+			searchPage.searchInput.Clear();
 
-			myRevuesPage.searchButton.Click();
+			searchPage.searchInput.SendKeys(myRevuesPage.lastRevueTitle.Text);
+
+			//actions.MoveToElement(searchPage.searchButton).Perform();
+
+			//wait.Until(d => searchPage.searchButton.Displayed);
+
+			searchPage.searchButton.Click();
 
 			Assert.That(myRevuesPage.lastRevueTitle.Text, Is.EqualTo(lastRevueRandomTitle), "Titles do not match!");
 		}

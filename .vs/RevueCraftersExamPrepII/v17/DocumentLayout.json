@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{276376CD-F2B8-4C01-A66D-2953B919432E}|RevueCraftersExamPrepII\\RevueCraftersExamPrepII.csproj|c:\\users\\arzja\\source\\repos\\revuecraftersexamprepii\\revuecraftersexamprepii\\pages\\myrevuespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{276376CD-F2B8-4C01-A66D-2953B919432E}|RevueCraftersExamPrepII\\RevueCraftersExamPrepII.csproj|solutionrelative:revuecraftersexamprepii\\pages\\myrevuespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{276376CD-F2B8-4C01-A66D-2953B919432E}|RevueCraftersExamPrepII\\RevueCraftersExamPrepII.csproj|c:\\users\\arzja\\source\\repos\\revuecraftersexamprepii\\revuecraftersexamprepii\\tests\\revuecrafterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{276376CD-F2B8-4C01-A66D-2953B919432E}|RevueCraftersExamPrepII\\RevueCraftersExamPrepII.csproj|solutionrelative:revuecraftersexamprepii\\tests\\revuecrafterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{276376CD-F2B8-4C01-A66D-2953B919432E}|RevueCraftersExamPrepII\\RevueCraftersExamPrepII.csproj|c:\\users\\arzja\\source\\repos\\revuecraftersexamprepii\\revuecraftersexamprepii\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{276376CD-F2B8-4C01-A66D-2953B919432E}|RevueCraftersExamPrepII\\RevueCraftersExamPrepII.csproj|solutionrelative:revuecraftersexamprepii\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276376CD-F2B8-4C01-A66D-2953B919432E}|RevueCraftersExamPrepII\\RevueCraftersExamPrepII.csproj|c:\\users\\arzja\\source\\repos\\revuecraftersexamprepii\\revuecraftersexamprepii\\pages\\myrevuespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276376CD-F2B8-4C01-A66D-2953B919432E}|RevueCraftersExamPrepII\\RevueCraftersExamPrepII.csproj|solutionrelative:revuecraftersexamprepii\\pages\\myrevuespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276376CD-F2B8-4C01-A66D-2953B919432E}|RevueCraftersExamPrepII\\RevueCraftersExamPrepII.csproj|c:\\users\\arzja\\source\\repos\\revuecraftersexamprepii\\revuecraftersexamprepii\\pages\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276376CD-F2B8-4C01-A66D-2953B919432E}|RevueCraftersExamPrepII\\RevueCraftersExamPrepII.csproj|solutionrelative:revuecraftersexamprepii\\pages\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{276376CD-F2B8-4C01-A66D-2953B919432E}|RevueCraftersExamPrepII\\RevueCraftersExamPrepII.csproj|c:\\users\\arzja\\source\\repos\\revuecraftersexamprepii\\revuecraftersexamprepii\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,72 +58,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyRevuesPage.cs",
-              "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Pages\\MyRevuesPage.cs",
-              "RelativeDocumentMoniker": "RevueCraftersExamPrepII\\Pages\\MyRevuesPage.cs",
-              "ToolTip": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Pages\\MyRevuesPage.cs",
-              "RelativeToolTip": "RevueCraftersExamPrepII\\Pages\\MyRevuesPage.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T18:41:40.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BaseTest.cs",
               "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Tests\\BaseTest.cs",
               "RelativeDocumentMoniker": "RevueCraftersExamPrepII\\Tests\\BaseTest.cs",
               "ToolTip": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Tests\\BaseTest.cs",
               "RelativeToolTip": "RevueCraftersExamPrepII\\Tests\\BaseTest.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAArwBsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T16:26:43.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BasePage.cs",
               "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Pages\\BasePage.cs",
               "RelativeDocumentMoniker": "RevueCraftersExamPrepII\\Pages\\BasePage.cs",
               "ToolTip": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Pages\\BasePage.cs",
               "RelativeToolTip": "RevueCraftersExamPrepII\\Pages\\BasePage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T12:57:40.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RevueCraftersTests.cs",
               "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Tests\\RevueCraftersTests.cs",
               "RelativeDocumentMoniker": "RevueCraftersExamPrepII\\Tests\\RevueCraftersTests.cs",
-              "ToolTip": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Tests\\RevueCraftersTests.cs",
-              "RelativeToolTip": "RevueCraftersExamPrepII\\Tests\\RevueCraftersTests.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Tests\\RevueCraftersTests.cs*",
+              "RelativeToolTip": "RevueCraftersExamPrepII\\Tests\\RevueCraftersTests.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T13:41:46.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "SearchPage.cs",
+              "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Pages\\SearchPage.cs",
+              "RelativeDocumentMoniker": "RevueCraftersExamPrepII\\Pages\\SearchPage.cs",
+              "ToolTip": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Pages\\SearchPage.cs",
+              "RelativeToolTip": "RevueCraftersExamPrepII\\Pages\\SearchPage.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:28:44.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyRevuesPage.cs",
+              "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Pages\\MyRevuesPage.cs",
+              "RelativeDocumentMoniker": "RevueCraftersExamPrepII\\Pages\\MyRevuesPage.cs",
+              "ToolTip": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Pages\\MyRevuesPage.cs",
+              "RelativeToolTip": "RevueCraftersExamPrepII\\Pages\\MyRevuesPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:41:40.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CreateRevuePage.cs",
               "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Pages\\CreateRevuePage.cs",
               "RelativeDocumentMoniker": "RevueCraftersExamPrepII\\Pages\\CreateRevuePage.cs",
               "ToolTip": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Pages\\CreateRevuePage.cs",
               "RelativeToolTip": "RevueCraftersExamPrepII\\Pages\\CreateRevuePage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwCQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T13:32:55.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LoginPage.cs",
               "DocumentMoniker": "C:\\Users\\arzja\\source\\repos\\RevueCraftersExamPrepII\\RevueCraftersExamPrepII\\Pages\\LoginPage.cs",
               "RelativeDocumentMoniker": "RevueCraftersExamPrepII\\Pages\\LoginPage.cs",
@@ -127,8 +144,7 @@
               "RelativeToolTip": "RevueCraftersExamPrepII\\Pages\\LoginPage.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T13:17:49.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T13:17:49.414Z"
             }
           ]
         },
